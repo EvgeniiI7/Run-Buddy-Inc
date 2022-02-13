@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+Link to deployed App](https://evgeniii7.github.io/run-buddy/)
 
 ## Contribution
 Made with ❤️ by [Evgenii Ivanov]
