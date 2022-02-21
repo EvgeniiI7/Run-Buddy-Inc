@@ -9,6 +9,7 @@ A website that offers fitness training services.
 
 ## Website
 [Run Buddy](https://evgeniii7.github.io/run-buddy/)
+![ScreenShot]()
 
 ## Contribution
 Made with ❤️ by [Evgenii Ivanov]
